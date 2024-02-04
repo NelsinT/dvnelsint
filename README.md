@@ -12,5 +12,5 @@ Ensure the script is properly placed in the server's resources directory. Start 
 
 Feel free to ask something ! 
 Feel free to modify and share this script .
-
+Preview: https://youtu.be/aR4_wbDpBnk
 Author: [NelsinT] .
