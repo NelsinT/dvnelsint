@@ -1,4 +1,4 @@
-# Vehicle Deletion Script
+# Vehicle Deletion Script ( Simple )
 
 
 # Description:
